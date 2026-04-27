@@ -1,6 +1,6 @@
 {
   "name": "claude-waybar-status",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reports Claude Code session state (working / awaiting input) to a local waybar-topics server so the workspace's waybar button changes color.",
   "author": {
     "name": "Duane Nielsen"
